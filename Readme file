@@ -1,0 +1,26 @@
+# Student Grade Tracker
+
+Simple console Java program to input and manage student grades.
+
+## Features
+- Add / edit / remove students (name + score)
+- View list of all students
+- Compute class average, highest and lowest scores (with student names)
+- Uses `ArrayList` for data storage
+- Console-based, single-file Java program
+
+## How to run (quick)
+### Option A — online (recommended)
+1. Go to https://replit.com and create a Java repl.
+2. Create `StudentGradeTracker.java`, paste the code, and press Run.
+
+### Option B — locally (if you have Java)
+1. `javac StudentGradeTracker.java`
+2. `java StudentGradeTracker`
+
+## Example
+- Choose option `6` to load sample data.
+- Choose option `5` to show summary (average, highest, lowest).
+
+## Author
+Your Name
